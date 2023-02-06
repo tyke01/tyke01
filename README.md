@@ -1,8 +1,12 @@
+ HELLO I'M VICTOR MACHARIA: KENYA: 
+
 - 👋 Hi, I’m @tyke01
 - 👀 I’m interested in ...robotics and automation
 - 🌱 I’m currently learning ...mechanical engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...techvictor653@gmail.com
+- 📫 How to reach me ...<a href="https://twitter.com/VictorMacharia0"><img src="https://img.shields.io/twitter/follow/VictorMacharia0?label=@VictorMacharia0&style=social" alt="Twitter"></a>,
+
+
 
 
 
