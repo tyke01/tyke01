@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Macharia</h1>
 <h3 align="center">A passionate embedded systems engineer from kenya studying Mechatronics engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyke01&label=Profile%20views&color=0e75b6&style=flat" alt="tyke01" /> </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tyke01&label=Profile%20Views&pretty=false" />
+</a>
 
 <p align="left"> <a href="https://twitter.com/victormacharia0" target="blank"><img src="https://img.shields.io/twitter/follow/victormacharia0?logo=twitter&style=for-the-badge" alt="victormacharia0" /></a> </p>
 
