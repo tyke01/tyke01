@@ -26,7 +26,8 @@
 <a href="https://twitter.com/victormacharia0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victormacharia0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/victor-macharia-551b93226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-macharia-551b93226/" height="30" width="40" /></a>
 </p>
-
+<hr />
+<h2> MY SKILLS:</h2>
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
