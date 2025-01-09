@@ -58,13 +58,32 @@ I'm a passionate Mechatronics Engineering student from Kenya, specializing in em
 
 </div>
 
-## 📫 Connect With Me
+## 📫 Let's Connect!
 
-- Email: techvictor653@gmail.com
-- Twitter: [@victormacharia0](https://twitter.com/victormacharia0)
-- LinkedIn: [Victor Macharia](https://linkedin.com/in/victor-macharia-551b93226/)
+<div align="center">
+  <a href="mailto:techvictor653@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/victormacharia0">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/victor-macharia-551b93226/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/tyke01">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+
+### 💬 Feel free to reach out for collaborations or just a friendly chat!
+### 📨 Open to interesting opportunities and technical discussions
+
+</div>
 
 ---
+
 <div align="center">
   
 ### 💡 Looking for opportunities in IoT solutions, web design, and hardware design
