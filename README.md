@@ -44,9 +44,20 @@ I'm a passionate Mechatronics Engineering student from Kenya, specializing in em
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Embedded Systems & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### 🔧 Embedded Systems & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32Cube-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6B00?style=for-the-badge&logo=platformio&logoColor=white)
+
+### 🎨 3D Design & Simulation
+![Fusion360](https://img.shields.io/badge/Fusion_360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
+![Solidworks](https://img.shields.io/badge/Solidworks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ## 📈 GitHub Stats
 
