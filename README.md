@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/victormacharia0?logo=twitter&style=for-the-badge)](https://twitter.com/victormacharia0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/victor-macharia-551b93226/)
 [![Coding Time](https://wakatime.com/badge/user/ae8bc349-d595-440d-8d96-7cead2bb6147.svg)](https://wakatime.com/@ae8bc349-d595-440d-8d96-7cead2bb6147)
-[![Profile Views](https://visitcount.itsvg.in/api?id=tyke01&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=tyke01&color=blue&style=flat-square)
 
 </div>
 
