@@ -54,7 +54,7 @@ I'm a passionate Mechatronics Engineering student from Kenya, specializing in em
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyke01&show_icons=true&theme=tokyonight)](https://github.com/tyke01)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyke01&layout=compact&theme=tokyonight)](https://github.com/tyke01)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tyke01&theme=tokyonight)](https://github.com/tyke01)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tyke01&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
