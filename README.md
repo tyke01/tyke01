@@ -46,12 +46,12 @@ I'm a passionate Mechatronics Engineering student from Kenya, specializing in em
 
 ### 🔧 Embedded Systems & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32Cube-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32Cube-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6B00?style=for-the-badge&logo=platformio&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white)
 
 ### 🎨 3D Design & Simulation
 ![Fusion360](https://img.shields.io/badge/Fusion_360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
